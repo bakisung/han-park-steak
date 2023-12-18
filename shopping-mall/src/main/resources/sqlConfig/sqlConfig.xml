@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration
+	PUBLIC "-//mybatis.org//DTD Config 3.0//EN" 
+	"http://mybatis.org/dtd/mybatis-3-config.dtd">
+	
+<configuration>
+
+	<!-- 마이바티스 null값 insert 설정 --> 
+	<settings>
+<!-- 		<setting name="jdbcTypeForNull" value="null"/>  -->
+	    <setting name="callSettersOnNulls" value="true"/>
+	    <setting name="returnInstanceForEmptyRow" value="true"/>
+	</settings>
+	
+	<typeAliases>
+		<typeAlias type="java.lang.String" alias="str"/>
+		<typeAlias type="java.lang.Integer" alias="int"/>
+		
+		<typeAlias type="com.example.demo.vo.MemberVO" alias="member"/>
+		<typeAlias type="com.example.demo.vo.BoardVO" alias="board"/>
+	</typeAliases>
+
+</configuration>
