@@ -32,6 +32,7 @@
 				</button>
 			</div>
 	<h1>쇼핑몰 프로젝트여</h1>
+	<h1>테스트 함더 하께여</h1>
 			
 		<section class="new-rewards_wrap" style="background-color: #1E3932; color: white;">
 		    <div class="new-rewards_inner d-flex justify-content-center align-items-center">
