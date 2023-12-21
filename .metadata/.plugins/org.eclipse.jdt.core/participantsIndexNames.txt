@@ -1,7 +1,0 @@
-INDEX VERSION 1.131
-/Users/park/Downloads/han-park-steak/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3585785867.index
-/shopping-mall/src/main/java
-/Users/park/Downloads/han-park-steak/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/4138559575.index
-/shopping-mall/src/main/java
-/Users/park/Downloads/han-park-steak/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/4176845686.index
-/shopping-mall/src/main/java

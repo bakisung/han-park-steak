@@ -1,7 +1,0 @@
-INDEX VERSION 1.4+/Users/park/Downloads/han-park-steak/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
-3040337173.index
-3063879231.index
-1372683859.index
-2473936008.index
-3423813984.index
-1647323097.index
