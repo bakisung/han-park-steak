@@ -44,7 +44,7 @@ public class BoardController {
 		List<BoardVO> boardList = boardService.selectBoardList();
 		mnv.addObject("boardList", boardList);
 		mnv.setViewName(url);
-		
+		System.out.println("테쇼ㅡ트셑테스테아루나두개ㅏㅜ");
 		return mnv;
 	}
 	
