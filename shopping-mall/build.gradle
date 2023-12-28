@@ -76,10 +76,11 @@ tasks.named('test') {
 	useJUnitPlatform()
 }
 
-war {
-	enabled = false	// WAR 파일 비활성화
-}
-
-jar {
-	enabled = false	// JAR 파일 비활성화
-}
+// 아래 두 설정을 해야 빌드할 때, 우리에겐 필요하지 않은 plain 파일을 생성하지 않는다. 
+	war {
+		enabled = false	// WAR 파일 비활성화
+	}
+	jar {
+		enabled = false	// JAR 파일 비활성화
+	}
+//
